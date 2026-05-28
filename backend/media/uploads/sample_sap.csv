@@ -1,0 +1,3 @@
+MaterialCode,PlantCode,Quantity,Unit,PostingDate,DocumentNumber,Cost,Currency
+DIESEL,DE01,500,L,20231015,INV-001,850,EUR
+NATGAS,DE02,1200,KG,20231020,INV-002,960,EUR

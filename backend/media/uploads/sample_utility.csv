@@ -1,0 +1,3 @@
+MeterID,ConsumptionKWh,Unit,BillingEnd,TotalCost,Currency,Location
+MTR-001,4500,kWh,2023-10-31,540,USD,Berlin HQ
+MTR-002,12000,kWh,2023-10-31,1440,USD,Munich Plant
